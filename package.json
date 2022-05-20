@@ -1,0 +1,17 @@
+{
+  "name": "qa-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sucrase/jest-plugin": "^2.2.1",
+    "@types/jest": "^27.5.1",
+    "chromedriver": "^101.0.0",
+    "jest": "^28.1.0",
+    "selenium-webdriver": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/chromedriver": "^81.0.1",
+    "@types/selenium-webdriver": "^4.1.0"
+  }
+}
