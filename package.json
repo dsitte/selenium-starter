@@ -13,5 +13,8 @@
   "devDependencies": {
     "@types/chromedriver": "^81.0.1",
     "@types/selenium-webdriver": "^4.1.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
